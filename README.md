@@ -1,5 +1,5 @@
 # kopt-studio
-Solver for Well-Known Problems using Gurobipy Optimizer
+Model, Solver for Well-Known Problems using Gurobipy Optimizer
 
 ## Problems
 - [Maximum Cut Problem (MAXCUT)](https://en.wikipedia.org/wiki/Maximum_cut)
